@@ -1,0 +1,58 @@
+body, html {
+  height: 100%;
+}
+.bg {
+
+  /* Half height */
+  height: 50%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.bg1 {
+  /* The image used */
+  background-image:url("../images/bg1.png");
+
+}
+.bg2 {
+  /* The image used */
+  background-image:url("../images/bg2.jpeg");
+
+}
+.b8 {
+  /* The image used */
+  background-image:url("../images/b8.jpeg");
+
+}
+.bg4 {
+  /* The image used */
+  background-image:url("../images/bg4.jpeg");
+
+}
+.b7 {
+  /* The image used */
+  background-image:url("../images/b7.jpeg");
+
+}
+.b9 {
+  /* The image used */
+  background-image:url("../images/b9.jpeg");
+
+}
+.b5 {
+  /* The image used */
+  background-image:url("../images/b5.jpeg");
+
+}
+.b10 {
+  /* The image used */
+  background-image:url("../images/b10.jpeg");
+
+}
+.mycard{
+  margin-top: 10rem;
+  margin-left: 10rem;
+  width: 50rem;
+}
